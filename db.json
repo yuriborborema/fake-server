@@ -1,16 +1,39 @@
 {
   "departments": [
     {
-      "name": "fafafafa",
-      "id": 15
+      "name": "Padaria",
+      "id": 5
     },
     {
-      "name": "ola, primeiro",
-      "id": 16
+      "name": "Escritório",
+      "id": 6
     },
     {
-      "name": "na mao",
-      "id": 17
+      "name": "Frutaria",
+      "id": 7
     }
-  ]
-}
+  ],
+  "products": [
+    {
+      "name": "hahahha",
+      "id": 2,
+      "departments": [
+        "ola",
+        "joia"
+      ],
+      "stock": 45,
+      "price": 23
+    },
+    {
+      "name": "testqqq",
+      "id": 5,
+      "departments": [
+        "Padaria"
+      ],
+      "stock": 411,
+      "price": 111234
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
